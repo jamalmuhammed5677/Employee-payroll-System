@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c21b808d-c6d6-47c9-ad3c-381fdf5cf471" name="Employee_Payroll_System" comment="Employee_Payroll_System&#10;&#10;Signed-off-by: jamalmuhammed5677 &lt;jamalmuhammed5677@outlook.com&gt;">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="4406c2cd-77f6-4d69-8ea9-ec3f070bca42" name="Changes" comment="Employee_Payroll_System changes" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774022338494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Employee_Payroll_System&#10;&#10;Signed-off-by: jamalmuhammed5677 &lt;jamalmuhammed5677@outlook.com&gt;">
+      <option name="closed" value="true" />
+      <created>1774022408366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774022408366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +164,7 @@
     <MESSAGE value="Employee_Payroll_System changes" />
     <MESSAGE value="store changes" />
     <MESSAGE value="Employee_Payroll_System" />
+    <MESSAGE value="changes" />
     <MESSAGE value="Employee_Payroll_System&#10;&#10;Signed-off-by: jamalmuhammed5677 &lt;jamalmuhammed5677@outlook.com&gt;" />
     <option name="LAST_COMMIT_MESSAGE" value="Employee_Payroll_System&#10;&#10;Signed-off-by: jamalmuhammed5677 &lt;jamalmuhammed5677@outlook.com&gt;" />
   </component>
